@@ -1,0 +1,10 @@
+#container {
+  background: #f4f9ff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.body-home {
+  width: 320px;
+}
